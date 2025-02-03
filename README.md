@@ -51,4 +51,3 @@ Este é um chatbot de atendimento desenvolvido com Flask e Twilio para responder
 - [app.py](http://_vscodecontentref_/1): Código principal do chatbot.
 - [requirements.txt](http://_vscodecontentref_/2): Lista de dependências do projeto.
 - [.env](http://_vscodecontentref_/3): Arquivo de configuração com variáveis de ambiente.
-- [.flake8](http://_vscodecontentref_/4): Configuração do Flake8 para linting.
