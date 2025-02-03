@@ -52,7 +52,3 @@ Este é um chatbot de atendimento desenvolvido com Flask e Twilio para responder
 - [requirements.txt](http://_vscodecontentref_/2): Lista de dependências do projeto.
 - [.env](http://_vscodecontentref_/3): Arquivo de configuração com variáveis de ambiente.
 - [.flake8](http://_vscodecontentref_/4): Configuração do Flake8 para linting.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
